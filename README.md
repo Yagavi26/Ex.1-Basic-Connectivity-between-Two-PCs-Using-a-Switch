@@ -11,8 +11,9 @@ ________________________________________
 •	Optional: Wireless Router, Server, Cloud
 ________________________________________
 # Network Topology Diagram
+<img width="443" height="373" alt="image" src="https://github.com/user-attachments/assets/7d2fa00e-d077-4a74-b46f-a446f55838d5" />
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
+
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -40,7 +41,8 @@ For Router Configuration (CLI):<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
 
-Insert screenshots showing ping success, configuration, or simulation results.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6cf8afdd-083c-41f1-bf66-04823b734386" />
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
